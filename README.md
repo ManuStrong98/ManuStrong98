@@ -14,7 +14,8 @@
 <p align="left">
       <img src='https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg' width="40" height="40">
       <img src='https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg' width="40" height="40">
-      <img src='https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg' width="40" height="40"> </a>
+      <img src='https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg' width="40" height="40">
+      <img src='https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg' width="40" height="40"> </a>
 </p>
 
 
