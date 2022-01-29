@@ -3,7 +3,6 @@
 <p align='center'>
       <a href="https://t.me/Manu_Strong10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="apoorv#4040" height="40" width="30" /></a>&nbsp;
  
- <p align='center'>
       <a href="http://discord.com/users/msnu#2164" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="apoorv#4040" height="40" width="30" /></a>&nbsp;
   
 </p>
