@@ -14,7 +14,7 @@
 
 <p align="left">
       
-   <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/neovimio/neovimio-icon.svg" alt="html5" width="40" height="40"/>
+    <a href="https://neovim.io/" target="_blank"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/neovimio/neovimio-icon.svg" alt="html5" width="40" height="40"/> </a>
            
 </p>
 
