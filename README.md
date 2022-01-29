@@ -22,7 +22,11 @@ _____________|','   ///_/-------------/   |
               |===========,'
 ```
 <p align='center'>
-  <img src="https://img.shields.io/badge/-TELEGRAM-0000FF" />
+  <a href="https://t.me/Manu_Strong10">
+    <img src="https://img.shields.io/badge/-TELEGRAM-0000FF" />
+  </a>&nbsp;&nbsp;
+  
+  
   
  </p>
 
