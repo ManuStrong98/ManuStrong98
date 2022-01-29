@@ -12,7 +12,8 @@
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
-      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg' width="40" height="40"> </a>
+      <img src='https://www.vectorlogo.zone/util/preview.html?image=/logos/neovimio/neovimio-icon.svg' width="40" height="40">
+      <img src='https://www.vectorlogo.zone/util/preview.html?image=/logos/git-scm/git-scm-icon.svg' width="40" height="40"> </a>
 </p>
 
 
