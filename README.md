@@ -2,11 +2,11 @@
 
 ![](https://media2.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif?cid=ecf05e47jl0yqkmtue606fx0l8hu9i0ozwe6cc4oy360wbs3&rid=giphy.gif&ct=g)
 # Hobbys : 
-      - Maths
-      - To read documentation for linux, bash, nvim, etc.
-      - To type on computer
-      - Photography
-      - Exercise
+- Maths
+- To read documentation for linux, bash, nvim, etc.
+- To type on computer
+- Photography
+- Exercise
       
 # Contact Me :
 <p align='center'>
