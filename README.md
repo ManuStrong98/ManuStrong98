@@ -1,9 +1,16 @@
 # Hi there!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<p align='center'>
-  <a href="https://t.me/Manu_Strong10">
-    <img src="https://img.shields.io/badge/-TELEGRAM-0000FF" />
-  </a>&nbsp;&nbsp;
+
+
+
+
+
+
+
+
+
+
+
 
 <p align='center'>
 <a href="https://t.me/Manu_Strong10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="apoorv#4040" height="40" width="30" /></a>&nbsp;
