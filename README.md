@@ -13,7 +13,8 @@
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
       <img src='https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg' width="40" height="40">
-      <img src='https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg' width="40" height="40"> </a>
+      <img src='https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg' width="40" height="40">
+      <img src='https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg' width="40" height="40"> </a>
 </p>
 
 
