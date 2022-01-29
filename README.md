@@ -8,7 +8,7 @@
        <a href="http://discord.com/users/msnu#2164" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" alt="apoorv#4040" height="40" width="30" /></a>&nbsp;
       <a href="mailto:manu.strong98@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="apoorv#4040" height="40" width="30" /></a>&nbsp;
       <a href="https://www.reddit.com/u/Manu_Strong?utm_medium=android_app&utm_source=share" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/reddit/reddit-tile.svg" alt="apoorv#4040" height="30" width="30" /></a>&nbsp;
-        <a href="https://github.com/ManuStrong98/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="apoorv#4040" height="30" width="30" /></a>&nbsp;
+        <a href="https://github.com/ManuStrong98/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="apoorv#4040" height="40" width="40" /></a>&nbsp;
 </p>
 
 
