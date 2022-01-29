@@ -1,11 +1,5 @@
 # Hi there!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<p align='center'>
-      <a href="https://t.me/Manu_Strong10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="apoorv#4040" height="40" width="30" /></a>&nbsp;
-       <a href="http://discord.com/users/msnu#2164" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="apoorv#4040" height="40" width="30" /></a>&nbsp;
-  
-</p>
-
 ![](https://media2.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif?cid=ecf05e47jl0yqkmtue606fx0l8hu9i0ozwe6cc4oy360wbs3&rid=giphy.gif&ct=g)
 
 <!-- vectores images  -->
@@ -29,7 +23,12 @@
 
 
 
-
+<p align='center'>
+      <a href="https://t.me/Manu_Strong10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="apoorv#4040" height="40" width="30" /></a>&nbsp;
+       <a href="http://discord.com/users/msnu#2164" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="apoorv#4040" height="40" width="30" /></a>&nbsp;
+      <a href="mailto:manu.strong98@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="apoorv#4040" height="40" width="30" /></a>&nbsp;
+  
+</p>
 
 
 
