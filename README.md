@@ -15,7 +15,16 @@
       <img src='https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg' width="40" height="40">
       <img src='https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg' width="40" height="40">
       <img src='https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg' width="40" height="40">
-      <img src='https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg' width="40" height="40"> </a>
+      <img src='https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg' width="40" height="40">
+      <img src='https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg' width="40" height="40">
+      <img src='https://www.vectorlogo.zone/logos/python/python-icon.svg' width="40" height="40">
+      <img src='https://www.vectorlogo.zone/logos/java/java-icon.svg' width="40" height="40">
+      <img src='https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg' width="40" height="40">
+      <img src='https://cdn3.iconfinder.com/data/icons/pleasant/MS-DOS-Batch-File.png' width="40" height="40">
+      <img src='https://www.vectorlogo.zone/logos/lua/lua-icon.svg' width="40" height="40">
+      <img src='https://www.vectorlogo.zone/logos/vim/vim-ar21.svg' width="40" height="40">
+      <img src='https://www.vectorlogo.zone/logos/linux/linux-icon.svg' width="40" height="40">
+      <img src='https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg' width="40" height="40"> </a>
 </p>
 
 
