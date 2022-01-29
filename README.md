@@ -1,7 +1,13 @@
 # Hi there!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 ![](https://media2.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif?cid=ecf05e47jl0yqkmtue606fx0l8hu9i0ozwe6cc4oy360wbs3&rid=giphy.gif&ct=g)
-
+# Hobbys : 
+      - Maths
+      - To read documentation for linux, bash, nvim, etc.
+      - To type on computer
+      - Photography
+      - Exercise
+      
 # Contact Me :
 <p align='center'>
       <a href="https://t.me/Manu_Strong10" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="apoorv#4040" height="30" width="30" /></a>&nbsp;
